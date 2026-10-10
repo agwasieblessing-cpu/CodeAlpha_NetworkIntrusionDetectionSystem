@@ -1,11 +1,4 @@
-# Network Intrusion Detection System (NIDS) Using Suricata
-
-
-A cybersecurity project developed as part of my Cybersecurity Internship with CodeAlpha.
-
-**Author:** Agwasie Blessing Uchechi  
-**Role:** Cybersecurity Intern — CodeAlpha  
-**Project Type:** Network Security and Intrusion Detection
+# Network Intrusion Detection System (NIDS)
 
 
 ## 📌 Project Overview
@@ -34,16 +27,6 @@ The objectives of this project are to:
 - Python 3
 - iptables
 
-## 📁 Project Structure
-
-```
-CodeAlpha_ProjectName/
-├── README.md
-├── local.rules          # Custom Suricata detection rules
-├── ids_response.py      # Automated response script
-├── dashboard.py         # Alert dashboard generator
-└── screenshots/         # Evidence of each step
-```
 
 ## 📚 Implementation
 
