@@ -1,6 +1,5 @@
 # Network Intrusion Detection System (NIDS) Using Suricata
 
-**Detect. Alert. Respond.**
 
 A cybersecurity project developed as part of my Cybersecurity Internship with CodeAlpha.
 
